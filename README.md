@@ -24,3 +24,5 @@ Experience building and maintaining CI/CD pipelines with an emphasis on DevOps b
 3+ years of cloud exposure: AWS, Google Cloud, Azure (at least one of them)
 Comfortable working in a shell environment.
 Experience working with complex existing codebases.
+
+
