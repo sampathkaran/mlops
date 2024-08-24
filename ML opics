@@ -1,1 +1,21 @@
+Linear algebra for machine learning
+
+Data Representations:-
+
+Organize inforamtion into a vector
+
+A vector is a 1 dimensioanl array of numbers
+
+Feature vector is something that represents features of some object.
+
+Example of data representations
+
+1. If I have image how do i represent as a 1 dimnesional vector idea is to convert black and white to 0 and 1 and other colors between 0 and 255
+2. If we have a paragragh how to represent - for eg count how many times the para has a word dog and form a vector
+
+
+Simple Vector Operations:
+
+Multiplication
+
 
